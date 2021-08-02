@@ -1,0 +1,5 @@
+npm install -g expo-cli
+expo init to-do-list-react-app
+npm install react-native-elements
+npm i -S lodash
+npm install rn-prompt --save
